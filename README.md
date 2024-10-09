@@ -38,9 +38,20 @@
 - Form to check if user follows an artist
 - Annimations
 - Cool styling
-    - Ask Damia
+    - Ask Damian
+- Good documentation and code comments
+- App theme
+
 ## FrontEnd UI Frameworks
 
-- Charkra UI
-- Material UI
+- [Chakra UI](https://v2.chakra-ui.com/)
+- [Material UI](https://mui.com/)
 - [UI ShadCN](https://ui.shadcn.com/)
+
+## Deployment & Security
+
+- Netlify env variables: https://docs.netlify.com/environment-variables/overview/
+
+## Useful resources
+
+- [Spotify Developer Docs](https://developer.spotify.com/documentation/web-api)
